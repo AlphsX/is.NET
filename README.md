@@ -1,4 +1,6 @@
-# LunaSpaceX
+<div align="center">
+
+# LunaSpaceX ✨
 
 [![.NET 6.0](https://img.shields.io/badge/.NET-6.0-512BD4?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com/download/dotnet/6.0)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-6.0-512BD4?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com)
@@ -7,6 +9,10 @@
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
 A modern, enterprise-grade inventory and stock management system built with ASP.NET Core Razor Pages. LunaSpaceX provides multi-location store support with comprehensive CRUD operations, user authentication, and real-time inventory tracking.
+
+</div>
+
+---
 
 ## 🚀 Features
 
@@ -478,9 +484,8 @@ With the conditions:
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/LunaSpaceX/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/LunaSpaceX/discussions)
-- **Email**: your-email@example.com
+- **Issues**: [GitHub Issues](https://github.com/AlphsX/LunaSpaceX/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/AlphsX/LunaSpaceX/discussions)
 
 ## 🗺️ Roadmap
 
